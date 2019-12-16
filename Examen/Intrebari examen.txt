@@ -1,0 +1,27 @@
+﻿CHESTIONAR PENTRU EXAMEN
+1. Care este diferența dintre un program clasic si Inteligența Artificială? Desenați și o diagramă.
+2. Care sunt principalele caracteristici ale unui sistem expert? Enumerați 3 sisteme expert 
+3. Care sunt părțile componente ce definesc Inteligența? Descrieți-le.
+4. Enumerați și definiți cele 7 tipuri distincte de inteligență identificate de H. Gardner.
+5. Descrieți cel puțin 2 abordări de comportament a unui robot dotat cu inteligență artificială.
+6. Enumerați și desrieți cel puțin 3 domenii ale IA.
+7. Enumerați și descrieți regulile de inferență din logica propozițională.
+8. Ce conține un program Prolog. Dați un exemplu.
+9. Din ce este formată o clauză în Prolog? Veniți cu exemple.
+10. Care este sintaxa unei liste în Prolog? Veniți cu exemple.
+11. Care este diferența dintre un program clasic si Învățarea Automată? Desenați și o diagramă.
+12. Enumerați și descrieți tipurile de învățare automată. Unde se aplică?
+13. Care este diferența dintre regresie și clasificare? Veniți cu exemple.
+14. Care este diferența dintre clasificare și clusterizare? Venți cu exemple.
+15. Ce este un model în Învățarea Automată. Enumerați și descrieți cel puțin un model.
+16. Care este cea mai utilizată metodă de calculare a liniei de regresie? Descrieți formula.
+17. Ce metode de evaluare a regresiei liniare cunoașteți? Care este diferența dintre ele? 
+18. Care este diferența de învățare prin regresie, interpolare și învățarea neurală?
+19. Cum se calculează probabilitatea Bayes? Ce este distribuția normală?
+20. Ce distanțe și similarități în spațiu cunoașteți? Descrieți-le.
+21. Unde putem folosi algoritmul k-nearest neighbours. Cum lucrează acesta?
+22. Ce funcții neuronale cunoașteți (funcții de activare)? Descrieți cel puțin una.
+23. Ce înseamnă ponderile într-o rețea neurală artificială?
+24. Descrieți modelul perceptronului. 
+25. Cum învață o rețea neurală. Descrieți modelul general.
+26. Ce întelegeți prin termenul "propagare înainte a semnalului" luând în considerare o rețea neurală? 
